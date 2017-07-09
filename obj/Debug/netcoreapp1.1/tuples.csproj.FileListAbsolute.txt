@@ -1,0 +1,8 @@
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.deps.json
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.runtimeconfig.json
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.runtimeconfig.dev.json
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.dll
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.pdb
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/obj/Debug/netcoreapp1.1/tuples.AssemblyInfo.cs
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/obj/Debug/netcoreapp1.1/tuples.dll
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/tuples/obj/Debug/netcoreapp1.1/tuples.pdb
